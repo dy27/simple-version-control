@@ -1,5 +1,6 @@
 # simple-version-control
 
+## Overview
 A simple version control program which supports init, add, commit, branch, checkout, remove, reset and merge commands.
 
 ## Implementation
